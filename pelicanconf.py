@@ -88,3 +88,5 @@ RELATIVE_URLS = False
 
 PLUGIN_PATHS = ["plugins"]
 PLUGINS = ["grammar_tag"]
+
+LOCALE = ('es_ES.UTF-8', 'es')

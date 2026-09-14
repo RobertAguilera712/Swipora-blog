@@ -343,7 +343,7 @@ sub {
 .card {
     border: none !important;
     border-radius: 16px !important; /* Creates smooth, modern corners */
-    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.04) !important; /* Soft, clean depth */
+    box-shadow: var(--bs-box-shadow) !important;
     background-color: #ffffff !important;
 }
 
@@ -365,8 +365,8 @@ sub {
 }
 
 /* 5. Clean up any default headers if you used card-header */
-.card-header {
+/* .card-header {
     background-color: transparent !important;
     border-bottom: none !important;
     padding-bottom: 0 !important;
-}
+} */
