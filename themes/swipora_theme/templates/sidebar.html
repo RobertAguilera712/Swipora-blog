@@ -68,3 +68,18 @@
 
     </div>
 </aside>
+
+<aside class="card mx-auto mb-4">
+    <div class="card-header">Etiquetas</div>
+    <div class="card-body">
+        {% for tag in tags %}
+
+        <a href="{{ SITEURL }}/{{ tag[0].url }}"
+           class="btn btn-primary btn-sm me-2 mb-2">
+            {{ tag[0] }}
+        </a>
+
+        {% endfor %}
+
+    </div>
+</aside>

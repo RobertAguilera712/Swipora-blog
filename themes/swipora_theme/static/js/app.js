@@ -1,4 +1,4 @@
-// app.js
+// app.js this is a comment
 const WAITLIST_KEY = 'CZgCGNEK0HQx'; // Replace with your key
 const API_URL = `https://waitlister.me/s/${WAITLIST_KEY}`;
 
