@@ -1,0 +1,149 @@
+{% extends "base.html" %}
+
+{% block body %}
+
+{% include 'navbar.html' %}
+
+<div class="container  text-center">
+    <div class="row  align-items-center  my-5 gy-4">
+        <div class="col-md-6 text-start order-md-1 order-2"
+            data-animate="animate__fadeInLeft">
+            <h1 class="main-heading">Swipora</h1>
+            <h2 class="main-subheading">Aprende inglés de forma inteligente</h2>
+            <p>Memoriza sin esfuerzo con flashcards impulsadas por un algoritmo que se adapta a tu ritmo.
+                Estudia menos, aprende más.</p>
+
+            <div class="d-flex flex-wrap gap-3 mt-4">
+
+                <a href="https://apps.apple.com/mx/app/swipora/id6762106557?l=en-GB Swipora"
+                    target="_blank"
+                    rel="noopener">
+                    <img src="{{ SITEURL }}/theme/images/appstore.png"
+                        alt="Descargar en la App Store"
+                        class="store-badge">
+                </a>
+
+                <a href="https://play.google.com/store/apps/details?id=io.github.robertaguilera712.swipora&pcampaignid=web_share"
+                    target="_blank"
+                    rel="noopener">
+                    <img src="{{ SITEURL }}/theme/images/googleplay.png"
+                        alt="Descargar en Google Play"
+                        class="store-badge">
+
+                </a>
+
+            </div>
+
+        </div>
+        <div class="col-md-6 order-md-2 order-1"
+            data-animate="animate__fadeInRight">
+            <img class="rounded-2"
+                src="{{ SITEURL }}/theme/images/app.png"
+                alt=""
+                width="80%">
+        </div>
+    </div>
+</div>
+<div class="bg-primary my-3 py-5"
+    id="caracteristicas">
+
+    <div class="container mb-5">
+
+        <h1 class="text-center">Diseña para ti</h1>
+        <h2 class="text-center">Una app que aprende cómo tú aprendes</h2>
+        <div class="row mt-4 g-4 align-items-stretch">
+            <div class="col-md-6"
+                data-animate="animate__fadeInLeft">
+                <div class="bg-white p-5 rounded-5 shadow">
+                    <div class="">
+                        <h2 class="">Diferentes mazos</h2>
+                        <p class="">Accede a mazos diseñados para cada nivel, desde principiante hasta avanzado.
+                            Siempre tendrás el contenido adecuado para seguir avanzando.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6"
+                data-animate="animate__fadeInRight">
+                <div class="bg-con p-5 rounded-5 h-100 shadow">
+                    <div class="">
+                        <h2 class="">Mejora tu pronunciación</h2>
+                        <p class="">Escucha palabras y frases con audio integrado para entrenar tu oído
+                            y hablar con mayor confianza desde el primer día.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12">
+                <div class="bg-dark p-5 rounded-5 shadow mb-5"
+                    data-animate="animate__fadeInUp">
+                    <div class="row g-4 align-items-center ">
+                        <div class="col-md-6">
+                            <h2 class="">Repetición espaciada</h2>
+                            <p class=""> Nuestro algoritmo te muestra cada palabra justo cuando estás a punto de
+                                olvidarla,
+                                optimizando tu memoria y acelerando tu aprendizaje.</p>
+                            <ul class="list-unstyled mt-4">
+                                <li class="mb-2">️<i class="bi bi-check-circle"></i> Recuerda palabras por más tiempo
+                                </li>
+                                <li class="mb-2"><i class="bi bi-check-circle"></i> Reduce el tiempo de estudio</li>
+                                <li class="mb-2"><i class="bi bi-check-circle"></i> Aprende de forma automática</li>
+                            </ul>
+                        </div>
+
+                        <div class="col-md-6 ">
+                            <img class="img-fluid rounded-5 shadow"
+                                src="{{ SITEURL }}/theme/images/graph.png"
+                                alt="">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class=" my-5 p-5"
+    id="unete">
+    <div class="container ">
+        <div class="">
+            <div class="bg-con p-5 rounded-5  shadow"
+                data-animate="animate__fadeIn">
+                <div class="">
+                    <h1 class=" mb-3">¿Listo para llevar tu inglés al siguiente nivel?</h1>
+                    <h3 class="mb-3">Descárgala ahora</h3>
+                    <div class="d-flex flex-wrap gap-3 mt-4">
+
+                        <a href="https://apps.apple.com/mx/app/swipora/id6762106557?l=en-GB Swipora"
+                            target="_blank"
+                            rel="noopener">
+                            <img src="{{ SITEURL }}/theme/images/appstore.png"
+                                alt="Descargar en la App Store"
+                                class="store-badge">
+                        </a>
+
+                        <a href="https://play.google.com/store/apps/details?id=io.github.robertaguilera712.swipora&pcampaignid=web_share"
+                            target="_blank"
+                            rel="noopener">
+                            <img src="{{ SITEURL }}/theme/images/googleplay.png"
+                                alt="Descargar en Google Play"
+                                class="store-badge">
+
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% include 'footer.html' %}
+
+{% block scripts %}
+{{ super() }}
+<script src="{{ SITEURL }}/theme/js/index.js"></script>
+<script src="{{ SITEURL }}/theme/js/app.js"></script>
+{% endblock scripts %}
+
+{% endblock body %}

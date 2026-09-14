@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content_title %}
+<h1 class="text-center mt-4 mb-4">Aprende inglés con Swipora</h1>
+{% endblock content_title%}
+
+{% block content %}
+<div class="container">
+    <p>Explora artículos sobre vocabulario en inglés, phrasal verbs, expresiones comunes, técnicas de memorización y
+        consejos para estudiar de forma eficiente.</p>
+    {% for article in articles_page.object_list %}
+    <article class="card my-5">
+        <div class="card-body">
+            <header>
+                <h3 class="card-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark
+                        title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
+            </header>
+            <section class="card-text">{{ article.summary }}</section>
+            <a href="{{ SITEURL }}/{{ article.url }}" class="btn btn-primary">Seguir leyendo</a>
+        </div>
+        <div class="card-footer text-body-secondary">
+            Publicado por: {{ article.author.name }} el {{ article.date.strftime("%d %B %Y") }}
+        </div>
+    </article>
+    {% endfor %}
+</div>
+
+{% endblock content %}
+
+{% block sidebar %}
+  {% include 'sidebar.html' %}
+{% endblock sidebar %}

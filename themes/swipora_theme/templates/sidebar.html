@@ -1,0 +1,70 @@
+<aside class="card mx-auto mb-4"
+       >
+    <div class="card-header">Sobre Swipora</div>
+    <div class="card-body ">
+        <img src="{{ SITEURL }}/theme/images/logo.png"
+             alt=""
+             style="float: left;"
+             height="80px"
+             class="me-2 rounded-4">
+             Swipora es una aplicación móvil diseñada para aprender y mejorar tu
+             nivel de inglés utilizando tarjetas didácticas (flashcards)
+             impulsadas por un algoritmo inteligente.
+        <br>
+        <br>
+        Descarga Swipora y sigue sus redes oficiales:
+
+        <br>
+        <br>
+
+        <a href="https://apps.apple.com/mx/app/swipora/id6762106557?l=en-GB Swipora"
+           target="_blank"
+           class="me-2">
+            <i class="bi bi-apple"></i> iOS
+        </a>
+
+        <a href="https://play.google.com/store/apps/details?id=io.github.robertaguilera712.swipora&pcampaignid=web_share"
+           target="_blank"
+           class="me-2">
+            <i class="bi bi-google-play"></i> Android
+        </a>
+
+        <a href="https://www.instagram.com/swipora.app"
+           target="_blank"
+           class="me-2">
+            <i class="bi bi-instagram"></i> Instagram
+        </a>
+
+        <a href="https://www.tiktok.com/@swipora.app?_r=1&_t=ZS-95gVvwEs2tA"
+           target="_blank"
+           class="me-2">
+            <i class="bi bi-tiktok"></i> TikTok
+        </a>
+
+        <a href="https://www.facebook.com/share/18qWRNQrqa/?mibextid=wwXIfr"
+           target="_blank"
+           class="me-2">
+            <i class="bi bi-facebook"></i> Facebook
+        </a>
+
+        <br>
+        <br>
+        Disfruta tu visita.
+
+    </div>
+</aside>
+
+<aside class="card mx-auto mb-4">
+    <div class="card-header">Categorías</div>
+    <div class="card-body">
+        {% for category in categories %}
+
+        <a href="{{ SITEURL }}/{{ category[0].url }}"
+           class="btn btn-primary btn-sm me-2 mb-2">
+            {{ category[0] }}
+        </a>
+
+        {% endfor %}
+
+    </div>
+</aside>

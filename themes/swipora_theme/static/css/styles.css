@@ -1,0 +1,340 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap');
+
+:root {
+    --red: #ff5562;
+    --black: #1b1b1b;
+    --dark-gray: #2a2a2a;
+    --tertiary-dim: #5f4e00;
+    --surface-container-highest: #d8daff;
+    --surface: #f8f5ff;
+    --secondary: #006a28;
+    --tertiary-container: #fdd400;
+    --on-error: #ffefee;
+    --primary-container: #779dff;
+    --tertiary: #6d5a00;
+    --surface-container-lowest: #ffffff;
+    --outline: #6f749e;
+    --on-secondary-fixed: #004819;
+    --surface-tint: #0053cc;
+    --primary-fixed: #779dff;
+    --on-tertiary: #fff2ce;
+    --secondary-fixed: #5cfd80;
+    --secondary-container: #5cfd80;
+    --outline-variant: #a6aad7;
+    --on-surface: #272c51;
+    --secondary-fixed-dim: #4bee74;
+    --surface-container-high: #dfe0ff;
+    --on-tertiary-fixed: #433700;
+    --on-background: #272c51;
+    --primary-fixed-dim: #608fff;
+    --tertiary-fixed: #fdd400;
+    --surface-dim: #cdd1ff;
+    --tertiary-fixed-dim: #edc600;
+    --on-primary-container: #001f56;
+    --inverse-on-surface: #959ac6;
+    --error-container: #fb5151;
+    --on-error-container: #570008;
+    --on-surface-variant: #545981;
+    --primary: #0053cc;
+    --on-primary: #f1f2ff;
+    --inverse-primary: #5b8cff;
+    --error: #b31b25;
+    --background: #f8f5ff;
+    --surface-bright: #f8f5ff;
+    --on-primary-fixed-variant: #00286a;
+    --error-dim: #9f0519;
+    --on-secondary: #cfffce;
+    --inverse-surface: #05092f;
+    --surface-container-low: #f0efff;
+    --on-secondary-container: #005d22;
+    --on-secondary-fixed-variant: #006827;
+    --surface-variant: #d8daff;
+    --primary-dim: #0048b3;
+    --on-tertiary-container: #594a00;
+    --surface-container: #e6e6ff;
+    --secondary-dim: #005d22;
+    --on-primary-fixed: #000000;
+    --on-tertiary-fixed-variant: #645300;
+}
+
+.bg-navbar {
+    background-color: var(--surface-container) !important;
+}
+
+[data-animate] {
+    opacity: 0;
+}
+
+.bg-con {
+    background-color: var(--surface-variant) !important;
+}
+
+.bg-primary {
+    background-color: #F0EFFF !important;
+}
+
+.text-primary {
+    color: var(--primary) !important;
+}
+
+.text-dark {
+    color: var(--on-surface) !important;
+}
+
+.footer-top-shadow {
+    box-shadow: 0 -5px 15px rgba(0, 0, 0, 0.2);
+    /* Negative vertical value pushes shadow up */
+}
+
+.btn {
+    font-weight: 600 !important;
+    border-radius: 1rem !important;
+}
+
+.btn-primary {
+    background-color: var(--primary) !important;
+    border-color: var(--primary) !important;
+}
+
+.btn-primary:hover {
+    background-color: var(--primary-dim) !important;
+}
+
+body {
+    background-color: var(--surface) !important;
+    color: var(--on-surface-variant) !important;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+}
+
+.main-heading {
+    font-size: 4em !important;
+}
+
+.main-subheading {
+    font-size: 2.5em !important;
+    color: var(--on-surface);
+}
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+h1,
+h2 {
+    color: var(--primary);
+}
+
+h1 {
+    font-weight: 900;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700 !important;
+    color: var(--on-surface);
+}
+
+.card-title {
+    color: var(--on-surface) !important;
+}
+
+.card-body {
+    color: var(--on-surface) !important;
+}
+
+.card-header {
+    color: var(--on-surface) !important;
+}
+
+
+
+.bg-dark {
+    background-color: #292B51 !important;
+
+    p,
+    h1,
+    h2,
+    h3,
+    h4,
+    ul,
+    h5 {
+        color: var(--on-primary) !important;
+    }
+
+    i {
+        color: var(--secondary-fixed) !important;
+    }
+}
+
+.navbar,
+.footer {
+    background-color: rgba(248, 245, 255, 0.8);
+    backdrop-filter: blur(10px);
+}
+
+
+.navbar-brand {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 900;
+}
+
+nav .nav-link,
+nav .navbar-brand,
+.footer {
+    color: var(--primary) !important;
+}
+
+nav .nav-link,
+.footer {
+    font-weight: 600;
+    color: var(--primary) !important;
+}
+
+nav .nav-link {
+    border-bottom: 2px solid transparent;
+}
+
+nav .nav-link.active {
+    color: var(--primary) !important;
+    border-color: var(--primary) !important;
+}
+
+nav .nav-link:hover[href] {
+    color: var(--primary) !important;
+    border-color: var(--primary) !important;
+}
+
+.project-card {
+    width: 18rem;
+    height: 25rem;
+}
+
+.project-card .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.form-control {
+    color: var(--on-surface);
+    /* border-color: var(--on-surface); */
+}
+
+.form-control:focus {
+    /* background-color: #1b1b1b; */
+    color: var(--on-surface);
+    border-color: var(--primary);
+    box-shadow: 0 0 0 .25rem rgba(0, 83, 204, 0.25);
+}
+
+#txtComment {
+    height: 120px;
+    resize: none;
+}
+
+.list-group-item {
+    background-color: var(--primary);
+    color: #eee;
+    font-size: 1.2rem;
+}
+
+.nav-link, .bi {
+    color: var(--primary) !important;
+}
+
+#social-nav {
+    font-size: 1.5rem;
+}
+
+a {
+    color: var(--on-surface);
+}
+
+.store-badge {
+    height: 60px;
+    width: auto;
+    transition: transform .2s ease;
+}
+
+.store-badge:hover {
+    transform: scale(1.05);
+}
+
+.card-title {
+    a:link,
+    a:visited,
+    a:hover,
+    a:active {
+        color: inherit;
+        /* or your desired color */
+        text-decoration: none;
+    }
+}
+
+.grammar{
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
+}
+
+.grammar-red{
+    color: #D85946 
+}
+
+.grammar-blue{
+    color: #375EEB 
+}
+
+.grammar-green{
+    color: #7CC270 
+}
+
+.grammar-teal{
+    color: #8CE1CF
+}
+
+.grammar-pink{
+    color: #dA5E9D
+}
+
+.grammar-purple{
+    color: #6F31ED
+}
+
+.grammar-orange{
+    color: #E19133
+}
+
+.grammar-yellow{
+    color: #F0CF60
+}
+
+/* Target the emoji images specifically */
+img.emojione, 
+img.twemoji, 
+img.gemoji {
+    height: 1em;
+    width: 1em;
+    vertical-align: -0.1em;
+    display: inline-block;
+    margin: 0 0.05em 0 0.1em;
+}
+
+sub {
+    line-height: 1.5;
+    display: block;
+}

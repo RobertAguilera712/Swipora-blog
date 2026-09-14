@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME|striptags }} - {{ page.title|striptags }}{% endblock %}
+
+{% block head %}
+{{ super()}}
+<link href="{{ SITEURL }}/theme/css/page.css"
+      rel="stylesheet">
+{% endblock head %}
+
+{% block ogtags %}
+<meta property="og:title"
+      content="{{ page.title|striptags }}">
+<meta property="og:url"
+      content="{{ SITEURL }}/{{ page.url }}">
+<meta name="description"
+      content="{{ page.summary|striptags|e }}">
+<meta property="og:image"
+      content="{{ SITEURL }}/theme/images/avatar.png">
+{% endblock ogtags %}
+
+{% block body %}
+
+{% include 'navbar.html' %}
+
+<main class="container my-5">
+    <h1 class="text-center mb-5">{{ page.title }}</h1>
+
+    {{ page.content }}
+
+</main>
+
+
+
+{% include 'footer.html' %}
+
+
+{% block scripts%}
+{# Bootstrap cdn #}
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+{% endblock scripts%}
+
+{% endblock body %}

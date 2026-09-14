@@ -1,0 +1,10 @@
+p>img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+kbd{
+    background-color: #3e3e3e;
+}

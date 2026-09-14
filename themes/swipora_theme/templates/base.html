@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock html_lang %}">
+
+<head>
+      {% block head %}
+      <title>{% block title %}{{ SITENAME|striptags }}{% endblock title %}</title>
+      <meta charset="utf-8" />
+      <meta name="generator"
+            content="Pelican" />
+      <meta name="viewport"
+            content="width=device-width, initial-scale=1.0">
+      <meta name="keywords"
+            content="Swipora, Swipora app, app para aprender inglés, como aprender inglés">
+
+
+
+
+      {# Bootstrap cnd #}
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+            crossorigin="anonymous">
+
+      {# Bootstrap icons cnd #}
+      <link rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+
+      {# animate #}
+      <link rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+
+      <!-- custom CSS -->
+      <link href="{{ SITEURL }}/theme/css/styles.css"
+            rel="stylesheet">
+      <link href="{{ SITEURL }}/theme/css/pygments.css"
+            rel="stylesheet">
+      <link href="{{ SITEURL }}/theme/css/hamburger.css"
+            rel="stylesheet">
+
+      <!-- favicon -->
+      <link rel="apple-touch-icon"
+            sizes="180x180"
+            href="{{ SITEURL }}/theme/favicon_io/apple-touch-icon.png">
+      <link rel="icon"
+            type="image/png"
+            sizes="32x32"
+            href="{{ SITEURL }}/theme/favicon_io/favicon-32x32.png">
+      <link rel="icon"
+            type="image/png"
+            sizes="16x16"
+            href="{{ SITEURL }}/theme/favicon_io/favicon-16x16.png">
+      <link rel="manifest"
+            href="{{ SITEURL }}/theme/favicon_io/site.webmanifest">
+
+      {% endblock head %}
+
+      {% block ogtags %}
+      <meta property="og:site_name"
+            content="{{ SITENAME }}">
+      <meta name="description"
+            content="{{ SITESUBTITLE }}">
+      <meta property="og:description"
+            content="{{ SITESUBTITLE }}">
+      <meta property="og:url"
+            content="{{ SITEURL }}">
+      <meta property="og:image"
+            content="{{ SITEURL }}/theme/images/app.png">
+      {% endblock ogtags %}
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+
+      {% block body %}
+      <header>
+            {% block header %}
+            {% include 'navbar.html' %}
+            {% endblock header %}
+
+            <hgroup>
+                  {% block content_title%}
+                  {% endblock content_title%}
+            </hgroup>
+
+      </header>
+
+
+      <div class="container">
+            <div class="row">
+                  <div class="col-lg-8 col-md-8 col-sm-12 ">
+
+
+                        <main>
+                              {% block content %}
+                              {% endblock content %}
+                        </main>
+
+                  </div>
+
+                  <div class="col-lg-4 col-md-4 col-sm-12">
+                        {% block sidebar %}
+                        {% endblock sidebar %}
+                  </div>
+
+            </div>
+      </div>
+
+
+      {% block footer %}
+      {% include 'footer.html' %}
+      {% endblock footer %}
+      {% block scripts%}
+      {# Bootstrap cdn #}
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+            crossorigin="anonymous"></script>
+      {% endblock scripts%}
+
+      {% endblock body %}
+</body>
+
+</html>

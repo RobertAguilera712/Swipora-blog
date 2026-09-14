@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME|striptags }} - Proyectos{% endblock %}
+
+{% block ogtags %}
+<meta property="og:title"
+      content="{{ SITENAME|striptags }} - Proyectos">
+<meta property="og:url"
+      content="{{ SITEURL }}/{{ page.url }}">
+<meta name="description"
+      content="Proyectos de Roberto Aguilera. Desarrollador de software en León GTO. Páginas web y aplicaciones móviles">
+<meta property="og:image"
+      content="{{ SITEURL }}/theme/images/avatar.png">
+{% endblock ogtags %}
+
+{% block body %}
+
+{% include 'navbar.html' %}
+
+<main class="container d-flex flex-column flex-grow-1 justify-content-center my-5">
+    <h1 class="text-center mb-5">Proyectos</h1>
+    <div class="row justify-content-center gy-5">
+        {% for page in pages %}
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <section class="card bg-dark mx-auto"
+                     data-bs-theme="dark">
+                <img src="{{ SITEURL }}/images/{{page.title}}.png"
+                     class="card-img-top">
+                <div class="card-body">
+                    <h5 class="card-title text-center">{{ page.title }}</h5>
+                    <p class="card-text">{{ page.summary }}</p>
+                </div>
+                <div class="card-footer">
+                    <a href="{{ SITEURL }}/{{ page.url }}"
+                       class="btn btn-danger d-block"
+                       rel="noopener"><i class="bi bi-info-circle"></i> Ver más</a>
+                </div>
+            </section>
+        </div>
+
+        {% endfor %}
+    </div>
+</main>
+
+
+{% include 'footer.html' %}
+
+{% block scripts%}
+{# Bootstrap cdn #}
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+{% endblock scripts%}
+
+{% endblock body %}
