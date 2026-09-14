@@ -344,7 +344,8 @@ sub {
     border: none !important;
     border-radius: 16px !important; /* Creates smooth, modern corners */
     box-shadow: var(--bs-box-shadow) !important;
-    background-color: #ffffff !important;
+    background-color: rgba(248, 245, 255, 0.8) !important;
+    backdrop-filter: blur(10px) !important;
 }
 
 /* 2. Give the content inside the cards more breathing room */

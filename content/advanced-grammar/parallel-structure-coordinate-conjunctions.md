@@ -39,11 +39,16 @@ I like <span class='grammar-red'>reading</span> <span class='grammar-purple'>and
 ## Adjectives joined with Coordinate Conjunctions
 
 <div class="grammar">
-She is <span class='grammar-pink'>smart</span>; She is <span class='grammar-pink'>beautiful</span>.<br>↓<br> 
-She is <span class='grammar-pink'>smart</span> <span class='grammar-purple'>and</span> <span class='grammar-pink'>beautiful</span>.<br class="mb-4">
 
+<div class="mb-4">
+She is <span class='grammar-pink'>smart</span>; She is <span class='grammar-pink'>beautiful</span>.<br>↓<br> 
+She is <span class='grammar-pink'>smart</span> <span class='grammar-purple'>and</span> <span class='grammar-pink'>beautiful</span>.
+</div>
+
+<div class="mb-4">
 The car is not <span class='grammar-pink'>fast</span>; The car is <span class='grammar-pink'>efficient</span>.<br>↓<br> 
-The car is not <span class='grammar-pink'>fast</span> <span class='grammar-purple'>but</span> <span class='grammar-pink'>efficient</span>.<br class="mb-4">
+The car is not <span class='grammar-pink'>fast</span> <span class='grammar-purple'>but</span> <span class='grammar-pink'>efficient</span>.
+</div>
 
 She may be <span class='grammar-pink'>angry</span>; She may be <span class='grammar-pink'>sad</span>.<br>↓<br>
 She may be <span class='grammar-pink'>angry</span> <span class='grammar-purple'>or</span> <span class='grammar-pink'>sad</span>.
@@ -56,11 +61,16 @@ She may be <span class='grammar-pink'>angry</span> <span class='grammar-purple'>
 ## Nouns joined with Coordinate Conjunctions
 
 <div class="grammar">
-I am an <span class='grammar-orange'>engineer</span>; I am a <span class='grammar-orange'>teacher</span>.<br>↓<br>
-I am an <span class='grammar-orange'>engineer</span> <span class='grammar-purple'>and</span> a <span class='grammar-orange'>teacher</span>.<br class="mb-4">
 
+<div class="mb-4">
+I am an <span class='grammar-orange'>engineer</span>; I am a <span class='grammar-orange'>teacher</span>.<br>↓<br>
+I am an <span class='grammar-orange'>engineer</span> <span class='grammar-purple'>and</span> a <span class='grammar-orange'>teacher</span>.
+</div>
+
+<div class="mb-4">
 She is not a <span class='grammar-orange'>nurse</span>; She is a <span class='grammar-orange'>doctor</span>.<br>↓<br>
-She is not a <span class='grammar-orange'>nurse</span> <span class='grammar-purple'>but</span> a <span class='grammar-orange'>doctor</span>.<br class="mb-4">
+She is not a <span class='grammar-orange'>nurse</span> <span class='grammar-purple'>but</span> a <span class='grammar-orange'>doctor</span>.
+</div>
 
 We need to talk to the <span class='grammar-orange'>coordinator</span>; We need to talk to the <span class='grammar-orange'>coordinator's assistant</span>.<br>↓<br>
 We need to talk to the <span class='grammar-orange'>coordinator</span> <span class='grammar-purple'>or</span> to his <span class='grammar-orange'>assistant</span>.
@@ -73,11 +83,16 @@ We need to talk to the <span class='grammar-orange'>coordinator</span> <span cla
 ## Verbs joined with Coordinate Conjunctions
 
 <div class="grammar">
-I <span class='grammar-red'>cooked</span> pizza yesterday; I <span class='grammar-red'>ate</span> pizza yesterday.<br>↓<br>
-I <span class='grammar-red'>cooked</span> <span class='grammar-purple'>and</span> <span class='grammar-red'>ate</span> pizza yesterday.<br class="mb-4">
 
+<div class="mb-4">
+I <span class='grammar-red'>cooked</span> pizza yesterday; I <span class='grammar-red'>ate</span> pizza yesterday.<br>↓<br>
+I <span class='grammar-red'>cooked</span> <span class='grammar-purple'>and</span> <span class='grammar-red'>ate</span> pizza yesterday.
+</div>
+
+<div class="mb-4">
 He doesn't <span class='grammar-red'>clean</span> for her; He <span class='grammar-red'>cooks</span> for her.<br>↓<br>
-He doesn't <span class='grammar-red'>clean</span> <span class='grammar-purple'>but</span> <span class='grammar-red'>cooks</span> for her.<br class="mb-4">
+He doesn't <span class='grammar-red'>clean</span> <span class='grammar-purple'>but</span> <span class='grammar-red'>cooks</span> for her.
+</div>
 
 You can <span class='grammar-red'>run</span> during the race; You can <span class='grammar-red'>walk</span> during the race.<br>↓<br>
 You can <span class='grammar-red'>run</span> <span class='grammar-purple'>or</span> <span class='grammar-red'>walk</span> during the race.
