@@ -47,11 +47,25 @@ A continuación, veremos cada uno de los usos del **Verb To Be**.
 Uno de de los usos más comunes del **Ver To Be** es para expresar edad. En español decimos 
 nuestra edad haciendo uso del verbo **tener**, decimos: **Yo tengo 20 años**, en inglés la
 edad no es algo que se tiene, sino un estado del cuerpo. Es por esto que usamos el **Verb To Be**
-y no el verbo have.
+y no el verbo have. A continuación algunos ejemplos:
+
+{%grammar%}
+:us: I am 24 years old.<br>
+:mexico: Yo tengo 24 años.<br class="mb-2">
+
+:us: You are 20 years old.<br>
+:mexico: Tú tienes 20 años.<br class="mb-2">
+
+:us: She is 22 years old.<br>
+:mexico: Ella tiene 22 años.
+{%endgrammar%}
+<sub>**\*<span class="grammar-green">Subject (Sujeto).</span>**<br>
+**\*<span class="grammar-pink">Verb To Be.</span>**<br>
+</sub>
 
 ### Descriptions with adjectives
 
-El primer uso que tiene es el de describir un **sustantivo** con el uso de un **adjetivo**. Veamos algunos ejemplos.
+Otro uso es el de describir un **sustantivo** con el uso de un **adjetivo**. Veamos algunos ejemplos.
 
 {%grammar%}
 :us: I am <span class='grammar-blue'>smart</span>.<br>
@@ -142,3 +156,6 @@ español. A diferencia del español, en el cual expresamos el hambre y la sed
 como algo que se tiene usando el verbo tener, en el inglés esto se expresa como
 un estado físico en el que uno está. Es por esto, que decimos estar hambrientos
 o sedientos.
+
+### With reaction to temperature
+

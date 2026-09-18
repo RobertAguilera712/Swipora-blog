@@ -9,41 +9,44 @@ Comparison words require balance too. When you use **than**, **as ... as**, or *
 ## Compare noun with noun
 
 <div class="grammar" markdown="1">
-:x: The population of Mexico City is <span class='grammar-green'>larger</span> <span class='grammar-purple'>than</span> <span class='grammar-orange'>Monterrey</span>.<br>
-:white_check_mark: <span class="grammar-orange">The population of Mexico City</span> is <span class='grammar-green'>larger</span> <span class='grammar-purple'>than</span> <span class='grammar-orange'>the population of Monterrey</span>.
+:x: <span class='grammar-orange'>The population of Mexico City</span> is <span class='grammar-green'>larg</span><span class='grammar-red'>er</span> <span class='grammar-purple'>than</span> Monterrey.<br>
+:white_check_mark: <span class='grammar-orange'>The population of Mexico City</span> is <span class='grammar-green'>larg</span><span class='grammar-red'>er</span> <span class='grammar-purple'>than</span> <span class='grammar-orange'>the population of Monterrey</span>.<br>
 </div>
 <sub>
-**\*<span class='grammar-green'>Comparative adjective.</span>**<br>
+**\*<span class='grammar-red'>Comparative</span> <span class='grammar-green'>adjective.</span>**<br>
 **\*<span class='grammar-purple'>Comparison word.</span>**<br>
 **\*<span class='grammar-orange'>Noun phrase.</span>**
 </sub>
 
-The first sentence compares **a population** with **a city**, which is not logical. :mexico: 
+The first sentence compares **a population** with **a city**, which is not logical.
 
 ## Compare actions with actions
 
 <div class="grammar" markdown="1">
-:x: <span class='grammar-red'>Studying with classmates</span> is <span class='grammar-green'>as effective</span> <span class='grammar-purple'>as</span> <span class='grammar-blue'>to study alone</span>.<br>
-:white_check_mark: <span class='grammar-red'>Studying with classmates</span> is <span class='grammar-green'>as effective</span> <span class='grammar-purple'>as</span> <span class='grammar-red'>studying alone</span>.
+:x: <span class='grammar-red'>Studying with classmates</span> is <span class='grammar-purple'>as</span> <span class='grammar-green'>effective</span> <span class='grammar-purple'>as</span> <span class='grammar-blue'>to study alone</span>.<br>
+:white_check_mark: <span class='grammar-red'>Studying with classmates</span> is <span class='grammar-purple'>as</span> <span class='grammar-green'>effective</span> <span class='grammar-purple'>as</span> <span class='grammar-red'>studying alone</span>.<br>
+:white_check_mark: <span class='grammar-blue'>To study with classmates</span> is <span class='grammar-purple'>as</span> <span class='grammar-green'>effective</span> <span class='grammar-purple'>as</span> <span class='grammar-blue'>to study alone</span>.<br>
 </div>
 <sub>
 **\*<span class='grammar-red'>Gerund phrase.</span>**<br>
 **\*<span class='grammar-blue'>Infinitive phrase.</span>**<br>
-**\*<span class='grammar-green'>Comparative expression.</span>**<br>
+**\*<span class='grammar-green'>Adjective</span>**<br>
 **\*<span class='grammar-purple'>Comparison word.</span>**
 </sub>
 
-The correct sentence compares one activity with another activity. Both activities use a gerund phrase.
+The correct sentence compares one activity with another activity. Both activities must be **equal**.
+Either gerund phrase + gerund phrase or infinitive phrase + infinitive phrase.
 
 ## Compare clauses with clauses
 
 <div class="grammar" markdown="1">
-:white_check_mark: <span class="grammar-orange">The new library provides</span> <span class='grammar-green'>more</span> computers <span class='grammar-purple'>than</span> <span class="grammar-orange">the old library does.</span><br>
-:white_check_mark: <span class="grammar-orange">The new library has</span> <span class='grammar-green'>more</span> computers <span class='grammar-purple'>than</span> <span class="grammar-orange">the old library.</span><br>
+:white_check_mark: <span class="grammar-orange">The new library</span> <span class='grammar-blue'>provides</span> <span class='grammar-green'>more computers</span> <span class='grammar-purple'>than</span> <span class="grammar-orange">the old library</span> <span class='grammar-blue'>does</span>.<br>
+:white_check_mark: <span class="grammar-orange">The new library</span> <span class='grammar-blue'>has</span> <span class='grammar-green'>more computers</span> <span class='grammar-purple'>than</span> <span class="grammar-orange">the old library</span>.<br>
 </div>
 <sub>
-**\*<span class='grammar-green'>Comparative word.</span>**<br>
-**\*<span class='grammar-orange'>Noun.</span>**<br>
+**\*<span class='grammar-orange'>Subject.</span>**<br>
+**\*<span class='grammar-blue'>verb.</span>**<br>
+**\*<span class='grammar-green'>Comparison.</span>**<br>
 **\*<span class='grammar-purple'>Comparison word.</span>**
 </sub>
 

@@ -62,28 +62,30 @@ You can <span class='grammar-red'>run</span> <span class='grammar-purple'>or</sp
 A **clause** has its own subject and verb. When **and**, **but**, or **or** joins two independent clauses, use a comma before the conjunction.
 
 <div class="grammar" markdown="1">
-:white_check_mark: <span class='grammar-green'>The researcher</span> <span class='grammar-red'>collected</span> the data, <span class='grammar-purple'>and</span> <span class='grammar-green'>she</span> <span class='grammar-red'>analyzed</span> it carefully.<br>
-:white_check_mark: <span class='grammar-green'>The lecture</span> <span class='grammar-red'>was</span> long, <span class='grammar-purple'>but</span> <span class='grammar-green'>the students</span> <span class='grammar-red'>remained</span> interested.<br>
-:white_check_mark: <span class='grammar-green'>You</span> can <span class='grammar-red'>submit</span> the form today, <span class='grammar-purple'>or</span> <span class='grammar-green'>you</span> can <span class='grammar-red'>submit</span> it tomorrow.
+:white_check_mark: <span class='grammar-green'>The researcher</span> <span class='grammar-blue'>collected</span> the data, <span class='grammar-purple'>and</span> <span class='grammar-green'>she</span> <span class='grammar-blue'>analyzed</span> it carefully.<br>
+:white_check_mark: <span class='grammar-green'>The lecture</span> <span class='grammar-blue'>was</span> long, <span class='grammar-purple'>but</span> <span class='grammar-green'>the students</span> <span class='grammar-blue'>remained</span> interested.<br>
+:white_check_mark: <span class='grammar-green'>You</span> can <span class='grammar-blue'>submit</span> the form today, <span class='grammar-purple'>or</span> <span class='grammar-green'>you</span> can <span class='grammar-blue'>submit</span> it tomorrow.
 </div>
 <sub>
 **\*<span class='grammar-green'>Subject.</span>**<br>
-**\*<span class='grammar-red'>Verb.</span>**<br>
+**\*<span class='grammar-blue'>Verb.</span>**<br>
 **\*<span class='grammar-purple'>Coordinate conjunction.</span>**
 </sub>
 
+<br>
 Each side of the conjunction can stand alone as a complete sentence:
 
 <div class="grammar">
-<span class='grammar-green'>The researcher</span> <span class='grammar-red'>collected</span> the data.<br>
-<span class='grammar-green'>She</span> <span class='grammar-red'>analyzed</span> it carefully.
+<span class='grammar-green'>The researcher</span> <span class='grammar-blue'>collected</span> the data.<br>
+<span class='grammar-green'>She</span> <span class='grammar-blue'>analyzed</span> it carefully.
 </div>
+<br>
 
 Do not use a comma if the two verbs share the same subject.
 
 <div class="grammar" markdown="1">
-:x: <span class='grammar-green'>The researcher</span> <span class='grammar-red'>collected</span> the data, <span class='grammar-purple'>and</span> <span class='grammar-red'>analyzed</span> it carefully.<br>
-:white_check_mark: <span class='grammar-green'>The researcher</span> <span class='grammar-red'>collected</span> the data <span class='grammar-purple'>and</span> <span class='grammar-red'>analyzed</span> it carefully.
+:x: <span class='grammar-green'>The researcher</span> <span class='grammar-blue'>collected</span> the data, <span class='grammar-purple'>and</span> <span class='grammar-blue'>analyzed</span> it carefully.<br>
+:white_check_mark: <span class='grammar-green'>The researcher</span> <span class='grammar-blue'>collected</span> the data <span class='grammar-purple'>and</span> <span class='grammar-blue'>analyzed</span> it carefully.
 </div>
 
 In the correct sentence, **the researcher** is the subject of both verbs. The second part is not an independent clause, so no comma is needed.
@@ -104,4 +106,4 @@ Conjunctions can join longer units too. The two phrases should still match.
 
 ## TOEFL strategy
 
-When you see **and**, **but**, or **or**, look at the grammar immediately before and after the conjunction. The two parts should match: adjective + adjective, noun + noun, verb + verb, or phrase + phrase.
+When you see **and**, **but**, or **or**, look at the grammar immediately before and after the conjunction. The two parts should match: adjective + adjective, noun + noun, verb + verb, clause + clase, or phrase + phrase.

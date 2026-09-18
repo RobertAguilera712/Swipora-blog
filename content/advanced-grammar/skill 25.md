@@ -19,8 +19,8 @@ Paired conjunctions come in two parts. They connect two equal grammatical ideas,
 ## Match adjective with adjective
 
 <div class="grammar" markdown="1">
-:x: The new course is <span class='grammar-purple'>both</span> <span class='grammar-pink'>challenging</span> <span class='grammar-purple'>and</span> <span class='grammar-red'>requires a lot of time</span>.<br>
-:white_check_mark: The new course is <span class='grammar-purple'>both</span> <span class='grammar-pink'>challenging</span> <span class='grammar-purple'>and</span> <span class='grammar-pink'>time-consuming</span>.
+:x: The new course is <span class='grammar-purple'>both</span> <span class='grammar-pink'>challenging</span> <span class='grammar-purple'>and</span> <span class='grammar-red'>makes me get bored</span>.<br>
+:white_check_mark: The new course is <span class='grammar-purple'>both</span> <span class='grammar-pink'>challenging</span> <span class='grammar-purple'>and</span> <span class='grammar-pink'>boring</span>.
 </div>
 <sub>
 **\*<span class='grammar-pink'>Adjective.</span>**<br>
@@ -28,13 +28,13 @@ Paired conjunctions come in two parts. They connect two equal grammatical ideas,
 **\*<span class='grammar-purple'>Paired conjunction.</span>**
 </sub>
 
-In the incorrect sentence, **challenging** is an adjective, but **requires a lot of time** is a verb phrase. The corrected sentence joins two adjectives.
+In the incorrect sentence, **challenging** is an adjective, but **makes me bored** is a verb phrase. The corrected sentence joins two adjectives.
 
 ## Match infinitive with infinitive
 
 <div class="grammar" markdown="1">
-:x: The professor asked us <span class='grammar-purple'>not only</span> <span class='grammar-blue'>to read</span> the article <span class='grammar-purple'>but also</span> <span class='grammar-red'>writing</span> a response.<br>
-:white_check_mark: The professor asked us <span class='grammar-purple'>not only</span> <span class='grammar-blue'>to read</span> the article <span class='grammar-purple'>but also</span> <span class='grammar-blue'>to write</span> a response.
+:x: The professor asked us <span class='grammar-purple'>not only</span> <span class='grammar-blue'>to read</span> the article <span class='grammar-purple'>but also</span> <span class='grammar-red'>writing</span> a review.<br>
+:white_check_mark: The professor asked us <span class='grammar-purple'>not only</span> <span class='grammar-blue'>to read</span> the article <span class='grammar-purple'>but also</span> <span class='grammar-blue'>to write</span> a review.
 </div>
 <sub>
 **\*<span class='grammar-blue'>Infinitive: to + base verb.</span>**<br>

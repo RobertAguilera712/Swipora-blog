@@ -7,74 +7,76 @@ Summary: Learn to form and use comparative and superlative adjectives correctly.
 Use a **comparative** to compare two things. Use a **superlative** to show that one person or thing has the highest or lowest degree in a group of three or more.
 
 <div class="grammar" markdown="1">
-Comparative: <span class='grammar-orange'>This route</span> is <span class='grammar-green'>shorter</span> <span class='grammar-purple'>than</span> <span class='grammar-orange'>the other route</span>.<br>
-Superlative: <span class='grammar-orange'>This route</span> is <span class='grammar-purple'>the</span> <span class='grammar-green'>shortest</span> route in <span class='grammar-orange'>the city</span>.
+Comparative: <span class='grammar-orange'>This route</span> is <span class='grammar-green'>short</span><span class='grammar-red'>er</span> <span class='grammar-purple'>than</span> <span class='grammar-orange'>the other route</span>.<br>
+Superlative: <span class='grammar-orange'>This route</span> is <span class='grammar-red'>the</span> <span class='grammar-green'>short</span><span class='grammar-red'>est</span> route <span class='grammar-pink'>in the city</span>.
 </div>
 <sub>
-**\*<span class='grammar-green'>Comparative or superlative adjective.</span>**<br>
-**\*<span class='grammar-purple'>Comparison marker.</span>**<br>
-**\*<span class='grammar-orange'>Things or group being compared.</span>**
+**\*<span class='grammar-orange'>Noun</span>**<br>
+**\*<span class='grammar-red'>Comparative or superlative</span> <span class='grammar-green'>adjective.</span>**<br>
+**\*<span class='grammar-purple'>Comparison word.</span>**<br>
+**\*<span class='grammar-pink'>Group of comparison</span>**
 </sub>
 
-## Short adjectives: use *-er* and *-est*
+## One syllable adjectives: add "*-er*"  and  "*-est*"  at the end
 
 <div class="grammar" markdown="1">
-<span class='grammar-pink'>fast</span> → <span class='grammar-green'>faster</span> → <span class='grammar-red'>the fastest</span><br>
-<span class='grammar-pink'>small</span> → <span class='grammar-green'>smaller</span> → <span class='grammar-red'>the smallest</span>
+<span class='grammar-green'>fast</span> → <span class='grammar-green'>fast</span><span class='grammar-red'>er</span> → <span class='grammar-red'>the</span> <span class='grammar-green'>fast</span><span class='grammar-red'>est</span><br>
+<span class='grammar-green'>small</span> → <span class='grammar-green'>small</span><span class='grammar-red'>er</span> → <span class='grammar-red'>the</span> <span class='grammar-green'>small</span><span class='grammar-red'>est</span><br>
 </div>
 <sub>
-**\*<span class='grammar-pink'>Base adjective.</span>**<br>
-**\*<span class='grammar-green'>Comparative.</span>**<br>
-**\*<span class='grammar-red'>Superlative.</span>**
+**\*<span class='grammar-green'>Base adjective.</span>**<br>
+**\*<span class='grammar-red'>Comparative or superlative.</span>**<br>
 </sub>
 
-## Adjectives ending in *-y*: change *y* to *ier* and *iest*
+## Two syllable adjectives ending in "*-y*": change "*y*" to "*ier*" and "*iest*"
 
 <div class="grammar" markdown="1">
-<span class='grammar-pink'>easy</span> → <span class='grammar-green'>easier</span> → <span class='grammar-red'>the easiest</span><br>
-<span class='grammar-pink'>happy</span> → <span class='grammar-green'>happier</span> → <span class='grammar-red'>the happiest</span>
+<span class='grammar-green'>happy</span> → <span class='grammar-green'>eas</span><span class='grammar-red'>ier</span> → <span class='grammar-red'>the</span> <span class='grammar-green'>eas</span><span class='grammar-red'>iest</span><br>
+<span class='grammar-green'>happy</span> → <span class='grammar-green'>happ</span><span class='grammar-red'>ier</span> → <span class='grammar-red'>the</span> <span class='grammar-green'>happ</span><span class='grammar-red'>iest</span><br>
 </div>
 <sub>
-**\*<span class='grammar-pink'>Base adjective.</span>**<br>
-**\*<span class='grammar-green'>Comparative.</span>**<br>
-**\*<span class='grammar-red'>Superlative.</span>**
+**\*<span class='grammar-green'>Base adjective.</span>**<br>
+**\*<span class='grammar-red'>Comparative or superlative.</span>**<br>
 </sub>
 
 ## Longer adjectives: use *more* and *most*
 
 <div class="grammar" markdown="1">
-<span class='grammar-orange'>This question</span> is <span class='grammar-green'>more complicated</span> <span class='grammar-purple'>than</span> <span class='grammar-orange'>the first question</span>.<br>
-<span class='grammar-orange'>This</span> is <span class='grammar-purple'>the</span> <span class='grammar-green'>most complicated</span> question in <span class='grammar-orange'>the test</span>.
+<span class='grammar-orange'>This question</span> is <span class='grammar-red'>more</span> <span class='grammar-green'>complicated</span> <span class='grammar-purple'>than</span> <span class='grammar-orange'>the first question</span>.<br>
+<span class='grammar-orange'>This question</span> is <span class='grammar-red'>the most</span> <span class='grammar-green'>complicated</span> question <span class='grammar-pink'>in the test</span>.<br>
 </div>
 <sub>
-**\*<span class='grammar-green'>Comparative or superlative expression.</span>**<br>
-**\*<span class='grammar-purple'>Comparison marker.</span>**<br>
-**\*<span class='grammar-orange'>Things or group being compared.</span>**
+**\*<span class='grammar-orange'>Noun.</span>**<br>
+**\*<span class='grammar-red'>Comparative or superlative expression.</span>**<br>
+**\*<span class='grammar-green'>Adjective</span>**<br>
+**\*<span class='grammar-purple'>Comparison word.</span>**<br>
+**\*<span class='grammar-pink'>Group of comparison.</span>**
 </sub>
 
 Do not use both forms together.
 
 <div class="grammar" markdown="1">
-:x: <span class='grammar-orange'>This assignment</span> is <span class='grammar-green'>more easier</span> <span class='grammar-purple'>than</span> <span class='grammar-orange'>the last one</span>.<br>
-:white_check_mark: <span class='grammar-orange'>This assignment</span> is <span class='grammar-green'>easier</span> <span class='grammar-purple'>than</span> <span class='grammar-orange'>the last one</span>.<br>
-:x: It was <span class='grammar-purple'>the</span> <span class='grammar-green'>most fastest</span> <span class='grammar-orange'>computer</span> in <span class='grammar-orange'>the lab</span>.<br>
-:white_check_mark: It was <span class='grammar-purple'>the</span> <span class='grammar-green'>fastest</span> <span class='grammar-orange'>computer</span> in <span class='grammar-orange'>the lab</span>.
+:x: <span class='grammar-orange'>This assignment</span> is <span class='grammar-red'>more</span> <span class='grammar-green'>eas</span><span class='grammar-red'>ier</span> <span class='grammar-purple'>than</span> <span class='grammar-orange'>the last one</span>.<br>
+:white_check_mark: <span class='grammar-orange'>This assignment</span> is <span class='grammar-green'>eas</span><span class='grammar-red'>ier</span> <span class='grammar-purple'>than</span> <span class='grammar-orange'>the last one</span>.<br>
+
+:x: It was <span class='grammar-red'>the most</span> <span class='grammar-green'>fast</span><span class='grammar-red'>est</span> <span class='grammar-orange'>computer</span> <span class='grammar-pink'>in the lab</span>.<br>
+:white_check_mark: It was <span class='grammar-green'>fast</span><span class='grammar-red'>est</span> <span class='grammar-orange'>computer</span> <span class='grammar-pink'>in the lab</span>.<br>
 </div>
 
 ## Irregular forms
 
 <div class="grammar" markdown="1">
-<span class='grammar-pink'>good</span> → <span class='grammar-green'>better</span> → <span class='grammar-red'>the best</span><br>
-<span class='grammar-pink'>bad</span> → <span class='grammar-green'>worse</span> → <span class='grammar-red'>the worst</span><br>
-<span class='grammar-pink'>much / many</span> → <span class='grammar-green'>more</span> → <span class='grammar-red'>the most</span><br>
-<span class='grammar-pink'>little</span> → <span class='grammar-green'>less</span> → <span class='grammar-red'>the least</span>
+<span class='grammar-green'>good</span> → <span class='grammar-red'>better</span> → <span class='grammar-red'>the best</span><br>
+<span class='grammar-green'>bad</span> → <span class='grammar-red'>worse</span> → <span class='grammar-red'>the worst</span><br>
+<span class='grammar-green'>much / many</span> → <span class='grammar-red'>more</span> → <span class='grammar-red'>the most</span><br>
+<span class='grammar-green'>little</span> → <span class='grammar-red'>less</span> → <span class='grammar-red'>the least</span>
 </div>
 <sub>
-**\*<span class='grammar-pink'>Base adjective.</span>**<br>
-**\*<span class='grammar-green'>Comparative.</span>**</br>
+**\*<span class='grammar-green'>Base adjective.</span>**<br>
+**\*<span class='grammar-red'>Comparative.</span>**</br>
 **\*<span class='grammar-red'>Superlative.</span>**
 </sub>
 
 ## TOEFL strategy
 
-Look for **than** with a comparative form and usually **the** with a superlative form. Use only one form: **easier**, not *more easier*; **the fastest**, not *the most fastest*.
+Look for **than** with a **comparative form** and usually **the** with a **superlative form**. Use only one form: **easier**, not *more easier*; **the fastest**, not *the most fastest*. For **comparatives** make sure your are comparing two similar nouns. for **superlatives** make sure that the group of comparison is formed correctly.
