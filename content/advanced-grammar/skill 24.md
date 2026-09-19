@@ -106,4 +106,4 @@ Conjunctions can join longer units too. The two phrases should still match.
 
 ## TOEFL strategy
 
-When you see **and**, **but**, or **or**, look at the grammar immediately before and after the conjunction. The two parts should match: adjective + adjective, noun + noun, verb + verb, clause + clase, or phrase + phrase.
+When you see **and**, **but**, or **or**, look at the grammar immediately before and after the conjunction. The two parts should match: adjective + adjective, noun + noun, verb + verb, clause + clause, or phrase + phrase.
