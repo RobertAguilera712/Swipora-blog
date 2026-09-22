@@ -1,5 +1,5 @@
 Title: Skill 24: Parallel Structure with Coordinate Conjunctions
-Date: 2026-09-16
+Date: 2026-09-14
 Category: Advanced Grammar
 Tags: Advanced Grammar, TOEFL Preparation, Parallel Structure
 Summary: Learn to use and, but, and or with balanced grammar.

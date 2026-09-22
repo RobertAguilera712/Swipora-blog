@@ -1,5 +1,5 @@
 Title: Skill 25: Parallel Structure with Paired Conjunctions
-Date: 2026-09-16
+Date: 2026-09-15
 Category: Advanced Grammar
 Tags: Advanced Grammar, TOEFL Preparation, Parallel Structure
 Summary: Learn how to use paired conjunctions with balanced grammar.
