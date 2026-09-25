@@ -323,4 +323,4 @@ Recuerda: en una afirmación el sujeto aparece antes del verbo; en una pregunta,
 
 Dominar el **verb to be** te dará una base sólida para formar descripciones, expresar estados y hacer preguntas en inglés. Repasa las estructuras, crea tus propios ejemplos y practica hasta que puedas usarlas de manera natural.
 
-Continúa aprendiendo con [más artículos de inglés en el blog](/) o practica vocabulario todos los días con **Swipora**, la aplicación para aprender inglés con flashcards. Descárgala en la [App Store](https://apps.apple.com/mx/app/swipora/id6762106557?l=en-GB) o en [Google Play](https://play.google.com/store/apps/details?id=io.github.robertaguilera712.swipora&pcampaignid=web_share).
+Continúa aprendiendo con [más artículos de inglés en el blog](/blog) o practica vocabulario todos los días con **Swipora**, la aplicación para aprender inglés con flashcards. Descárgala en la [App Store](https://apps.apple.com/mx/app/swipora/id6762106557?l=en-GB) o en [Google Play](https://play.google.com/store/apps/details?id=io.github.robertaguilera712.swipora&pcampaignid=web_share).
