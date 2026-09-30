@@ -83,10 +83,13 @@ ARTICLE_SAVE_AS = "blog/{slug}.html"
 
 INDEX_SAVE_AS = "blog/index.html"
 
+# Unlinked WebView listing: all published articles, outside normal navigation.
+TEMPLATE_PAGES = {"app_articles.html": "app/articles.html"}
+
 SITEURL = "https://code.robertoaguilera.dev/proxy/8000"
 RELATIVE_URLS = False
 
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["grammar_tag"]
+PLUGINS = ["grammar_tag", "seo_sitemap", "app_articles"]
 
 LOCALE = ('es_ES.UTF-8', 'es')

@@ -222,7 +222,3 @@ An adjective clause describes a noun. Place it directly after that noun. Use **w
 </sub>
 
 Think about your kitchen or classroom. Try to describe one person, one tool, one dish, and one place with an adjective clause. Useful sentences help grammar stay in your memory.
-
-## Continue learning
-
-Read [more English articles on the blog](/blog), or download **Swipora** to learn English with flashcards on the [App Store](https://apps.apple.com/mx/app/swipora/id6762106557?l=en-GB) or [Google Play](https://play.google.com/store/apps/details?id=io.github.robertaguilera712.swipora&pcampaignid=web_share).

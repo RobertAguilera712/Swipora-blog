@@ -8,16 +8,7 @@
       rel="stylesheet">
 {% endblock head %}
 
-{% block ogtags %}
-<meta property="og:title"
-      content="{{ page.title|striptags }}">
-<meta property="og:url"
-      content="{{ SITEURL }}/{{ page.url }}">
-<meta name="description"
-      content="{{ page.summary|striptags|e }}">
-<meta property="og:image"
-      content="{{ SITEURL }}/theme/images/avatar.png">
-{% endblock ogtags %}
+
 
 {% block body %}
 

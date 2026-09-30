@@ -25,7 +25,7 @@ Students will be able to:
 
 ### Materials
 
-- The article [Advice and Obligations](/blog/advice-and-obligations.html)
+- The article Advice and Obligations
 - The students' coursebook
 - Board and markers
 - Six sheets of paper, one for each production group
@@ -86,7 +86,7 @@ Circle **have to**, **must**, and **should**. Underline the base verbs.
 **Time:** 15 minutes  
 **Interaction:** Teacher–students with whole-class checks
 
-Use the examples and color coding from the [Swipora article](/blog/advice-and-obligations.html). Explain one form at a time. Teacher talk is appropriate here, but pause frequently for quick checks that all 30 students can answer together.
+Use the examples and color coding from the Swipora article. Explain one form at a time. Teacher talk is appropriate here, but pause frequently for quick checks that all 30 students can answer together.
 
 ### Have to: a requirement or necessary action
 

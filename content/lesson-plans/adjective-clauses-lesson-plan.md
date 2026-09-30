@@ -24,7 +24,7 @@ Students will produce sentences using these patterns:
 
 ### Materials
 
-- The article [Adjective Clauses for Gastronomy Students](/blog/adjective-clauses-for-gastronomy-students.html)
+- The article Adjective Clauses for Gastronomy Students
 - The students' coursebook
 - Board and markers
 - Paper or notebooks for the production activity
@@ -85,7 +85,7 @@ This transition connects the previous lesson with the new topic without introduc
 **Time:** 15 minutes  
 **Interaction:** Teacher–students
 
-Use the examples from [the Swipora adjective-clause article](/blog/adjective-clauses-for-gastronomy-students.html). Present one relative word at a time. Keep the questions simple: “Is it a person, a thing, a place, or a moment?”
+Use the examples from the Swipora adjective-clause article. Present one relative word at a time. Keep the questions simple: “Is it a person, a thing, a place, or a moment?”
 
 ### Step 1: *Who* for people
 

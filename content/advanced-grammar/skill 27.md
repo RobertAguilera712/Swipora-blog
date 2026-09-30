@@ -92,5 +92,3 @@ Some common words do not follow the usual spelling rules. Learn their comparativ
 ## TOEFL strategy
 
 Look for **than** with a comparative adjective and usually **the** with a superlative adjective. Use only one form: **smaller**, not *more smaller*; **the fastest**, not *the most fastest*. Check that the nouns in a comparison name the same kind of thing.
-
-Ready to practice the difference between the two forms? Read [Skill 28: Use Comparatives and Superlatives Correctly](/blog/skill-28-use-comparatives-and-superlatives-correctly.html), then review the examples with flashcards in the [Swipora app](/).

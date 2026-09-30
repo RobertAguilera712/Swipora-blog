@@ -13,4 +13,4 @@ jobs:
     with:
       settings: "publishconf.py"
       requirements: "-r requirements.txt"  
-      siteurl: "https://swipora.app"
+      siteurl: "https://www.swipora.app"

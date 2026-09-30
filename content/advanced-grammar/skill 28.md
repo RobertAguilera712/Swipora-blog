@@ -54,5 +54,3 @@ In the first pair, **than the car** compares two vehicles. In the second pair, *
 ## TOEFL strategy
 
 Find the adjective first. If you see **than**, check for a comparative adjective. If the sentence identifies one noun in a group, check for **the** plus a superlative adjective. Make sure both sides of a comparison contain nouns of the same kind.
-
-Keep practicing comparisons with [Skill 29: Use the “The More …, the More …” Structure](/blog/skill-29-use-the-the-more-the-more-structure.html), or study English examples with flashcards in the [Swipora app](/).

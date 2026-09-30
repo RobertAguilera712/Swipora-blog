@@ -55,5 +55,3 @@ Do not replace the second **the** with **than** or leave it out. In this pattern
 ## TOEFL strategy
 
 When a sentence begins **the + comparative**, look for a second **the + comparative** after the comma. Check that each clause has a subject and verb. If the comparative comes before a noun, check whether the noun is countable or uncountable.
-
-Review [Skill 27: Form Comparatives and Superlatives Correctly](/blog/skill-27-form-comparatives-and-superlatives-correctly.html), or practice these patterns with flashcards in the [Swipora app](https://play.google.com/store/apps/details?id=io.github.robertaguilera712.swipora).

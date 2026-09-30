@@ -58,5 +58,3 @@ Some irregular verbs have different **simple past** and **past participle** form
 ## TOEFL strategy
 
 Find **have**, **has**, or **had** and ask whether it is an auxiliary verb. If it is, check that the main verb is a past participle. Watch for irregular forms such as **eaten**, **seen**, and **gone**. Use **has** with a singular third person subject such as **Mia** or **the cat**.
-
-Continue with [more advanced grammar articles](/category/advanced-grammar.html), or review verb forms with flashcards in the [Swipora app](https://play.google.com/store/apps/details?id=io.github.robertaguilera712.swipora).

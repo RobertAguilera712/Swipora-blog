@@ -1,0 +1,32 @@
+{# Use the actual output path so archives and pagination are self-canonical. #}
+{% set canonical_path = '' if output_file == 'index.html' else output_file %}
+{% set canonical_url = SITEURL.rstrip('/') ~ '/' ~ canonical_path %}
+{% set seo_description = SITESUBTITLE %}
+{% set seo_image = SITEURL ~ '/theme/images/app.png' %}
+{% if article is defined %}
+    {% set seo_description = article.description|default(article.summary)|striptags %}
+{% elif page is defined and page.template != 'landing' %}
+    {# Custom templates can use placeholder Markdown; do not expose that in search snippets. #}
+    {% set seo_description = page.description|default(page.summary if page.template == 'page' else SITESUBTITLE)|striptags %}
+    {% set seo_image = SITEURL ~ '/theme/images/avatar.png' %}
+{% endif %}
+{% set seo_description = custom_description|default(seo_description) %}
+{% set seo_description = seo_description.split()|join(' ')|truncate(160) %}
+<link rel="canonical" href="{{ canonical_url|e }}">
+<meta name="description" content="{{ seo_description|e }}">
+<meta property="og:site_name" content="{{ SITENAME|e }}">
+<meta property="og:type" content="{{ 'article' if article is defined else 'website' }}">
+<meta property="og:title" content="{{ seo_title|e }}">
+<meta property="og:description" content="{{ seo_description|e }}">
+<meta property="og:url" content="{{ canonical_url|e }}">
+<meta property="og:image" content="{{ seo_image|e }}">
+<meta name="twitter:card" content="summary_large_image">
+{% if article is defined %}
+<meta property="article:published_time" content="{{ article.date.isoformat()|e }}">
+{% if article.modified %}
+<meta property="article:modified_time" content="{{ article.modified.isoformat()|e }}">
+{% endif %}
+{% endif %}
+{% if (article is defined and article.status == 'draft') or (page is defined and page.status == 'draft') %}
+<meta name="robots" content="noindex">
+{% endif %}

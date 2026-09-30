@@ -3,14 +3,9 @@
 {% block title %}{{ SITENAME|striptags }} - Acerca de mí{% endblock %}
 
 {% block ogtags %}
-<meta property="og:title"
-      content="{{ SITENAME|striptags }} - Acerca de mí">
-<meta property="og:url"
-      content="{{ SITEURL }}/{{ page.url }}">
-<meta name="description"
-      content="Acerca de Roberto Aguilera. Desarrollador de software en León GTO. Páginas web y aplicaciones móviles">
-<meta property="og:image"
-      content="{{ SITEURL }}/theme/images/avatar.png">
+{% set seo_title = self.title()|striptags|trim %}
+{% set custom_description = "Acerca de Roberto Aguilera. Desarrollador de software en León GTO. Páginas web y aplicaciones móviles" %}
+{% include "seo.html" %}
 {% endblock ogtags %}
 
 {% block body %}

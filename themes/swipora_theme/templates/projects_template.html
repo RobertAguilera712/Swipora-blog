@@ -3,14 +3,9 @@
 {% block title %}{{ SITENAME|striptags }} - Proyectos{% endblock %}
 
 {% block ogtags %}
-<meta property="og:title"
-      content="{{ SITENAME|striptags }} - Proyectos">
-<meta property="og:url"
-      content="{{ SITEURL }}/{{ page.url }}">
-<meta name="description"
-      content="Proyectos de Roberto Aguilera. Desarrollador de software en León GTO. Páginas web y aplicaciones móviles">
-<meta property="og:image"
-      content="{{ SITEURL }}/theme/images/avatar.png">
+{% set seo_title = self.title()|striptags|trim %}
+{% set custom_description = "Proyectos de Roberto Aguilera. Desarrollador de software en León GTO. Páginas web y aplicaciones móviles" %}
+{% include "seo.html" %}
 {% endblock ogtags %}
 
 {% block body %}

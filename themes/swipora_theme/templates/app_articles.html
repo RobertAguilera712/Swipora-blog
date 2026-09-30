@@ -1,0 +1,16 @@
+{% extends "index.html" %}
+{% set app_view = true %}
+{# Use all published articles rather than a paginated subset. #}
+{% set articles_page = namespace(object_list=articles) %}
+
+{% block ogtags %}
+<meta name="robots" content="noindex, follow">
+<link rel="canonical" href="{{ SITEURL }}/{{ INDEX_SAVE_AS }}">
+{% endblock ogtags %}
+
+{% block body %}
+{{ self.content_title() }}
+<div class="container">
+    <main>{{ self.content() }}</main>
+</div>
+{% endblock body %}

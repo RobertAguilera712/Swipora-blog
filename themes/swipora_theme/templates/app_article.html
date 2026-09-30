@@ -1,0 +1,14 @@
+{% extends "article.html" %}
+
+{% block ogtags %}
+<meta name="robots" content="noindex, follow">
+<link rel="canonical" href="{{ SITEURL }}/{{ article.url }}">
+{% endblock ogtags %}
+
+{% block body %}
+{{ self.content_title() }}
+<div class="container">
+    {# The original content block also includes its article scripts and MathJax. #}
+    <main>{{ self.content() }}</main>
+</div>
+{% endblock body %}

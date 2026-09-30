@@ -294,5 +294,3 @@ Después de **have to**, **must** y **should**, debemos usar la forma base del v
 ## Sigue aprendiendo
 
 Recuerda la idea principal: usa **should** para dar un consejo, **have to** para hablar de una necesidad u obligación y **must** para expresar una obligación fuerte. Presta especial atención a la diferencia entre **must not** y **don't have to**.
-
-Continúa aprendiendo con [más artículos de inglés en el blog](/blog) o practica vocabulario todos los días con **Swipora**, la aplicación para aprender inglés con flashcards. Descárgala en la [App Store](https://apps.apple.com/mx/app/swipora/id6762106557?l=en-GB) o en [Google Play](https://play.google.com/store/apps/details?id=io.github.robertaguilera712.swipora&pcampaignid=web_share).

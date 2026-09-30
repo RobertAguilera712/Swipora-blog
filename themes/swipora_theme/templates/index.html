@@ -12,11 +12,11 @@
     <article class="shadow card  my-5">
         <div class="card-body">
             <header>
-                <h3 class="card-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark
+                <h3 class="card-title"><a href="{{ SITEURL }}/{{ 'app/' if app_view|default(false) else '' }}{{ article.url }}" rel="bookmark
                         title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
             </header>
             <section class="card-text">{{ article.summary }}</section>
-            <a href="{{ SITEURL }}/{{ article.url }}" class="btn btn-primary">Seguir leyendo</a>
+            <a href="{{ SITEURL }}/{{ 'app/' if app_view|default(false) else '' }}{{ article.url }}" class="btn btn-primary">Seguir leyendo</a>
         </div>
         <div class="card-footer text-body-secondary">
             Publicado por: {{ article.author.name }} el {{ article.date.strftime("%d de %B de %Y") }}
